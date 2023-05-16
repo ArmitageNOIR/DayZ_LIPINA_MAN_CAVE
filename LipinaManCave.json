@@ -1,0 +1,298 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Tisy_Garages",
+            "pos": [ 6031.2, 271.86, 6855.8 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.40
+        },
+        {
+            "name": "CZ550",
+            "pos": [ 6030.80, 272.30, 6858.4 ],
+            "ypr": [ 0.0, 0.0, -4.0 ],
+			"scale": 1
+        },
+        {
+            "name": "M4A1_Black",
+            "pos": [ 6030.70, 272.06, 6858.4 ],
+            "ypr": [ 0.0, 0.0, -2.0 ],
+			"scale": 1
+        },
+        {
+            "name": "AKM",
+            "pos": [ 6030.80, 271.78, 6858.4 ],
+            "ypr": [ 0.0, 0.0, -2.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6031.22, 272.20, 6858.8 ],
+            "ypr": [ 0.0, 180.0, 270.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6029.98, 272.20, 6858.8 ],
+            "ypr": [ 0.0, 0.0, 90.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_table_camp",
+            "pos": [ 6030.6, 272.2, 6858.84 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 0.96
+        },
+        {
+            "name": "staticobj_misc_table_camp",
+            "pos": [ 6028.4, 272.2, 6858.84 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 0.96
+        },
+        {
+            "name": "Sword",
+            "pos": [ 6028.82, 272.4, 6858.40 ],
+            "ypr": [ 0.0, 90.0, -90.0 ],
+			"scale": 1
+        },
+        {
+            "name": "KukriKnife",
+            "pos": [ 6028.60, 272.17, 6858.40 ],
+            "ypr": [ 180.0, 0.0, 75.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "OrientalMachete",
+            "pos": [ 6028.65, 271.87, 6858.40 ],
+            "ypr": [ 180.0, 0.0, 85.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6029.02, 272.20, 6858.8 ],
+            "ypr": [ 0.0, 180.0, 270.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6027.78, 272.20, 6858.8 ],
+            "ypr": [ 0.0, 0.0, 90.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6030.3, 271.02, 6858.6 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6029.3, 271.02, 6858.6 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6028.3, 271.02, 6858.6 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 6027.3, 271.02, 6858.6 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_sofacorner",
+            "pos": [ 6027.8, 271.04, 6854.6 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_furniture_carpet_big",
+            "pos": [ 6028.2, 270.65, 6854.95 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6025.75, 271.9, 6854.0 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6025.75, 271.9, 6854.7 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6025.75, 271.9, 6855.4 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6025.60, 271.9, 6856.10 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6026, 271.9, 6856.20 ],
+            "ypr": [ -187.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6026.69, 271.9, 6856.25 ],
+            "ypr": [ -180.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6027.33, 271.9, 6856.09 ],
+            "ypr": [ -150.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6025.59, 271.9, 6857.65 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1.2
+        },
+        {
+            "name": "staticobj_furniture_picture_f_02",
+            "pos": [ 6026.25, 270.6, 6853.19 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_furniture_picture_c_02",
+            "pos": [ 6027.45, 270.15, 6853.2 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "staticobj_furniture_picture_e_02",
+            "pos": [ 6028.9, 270.2, 6853.20 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1.9
+        },
+        {
+            "name": "staticobj_furniture_picture_a_02",
+            "pos": [ 6029.65, 269.5, 6853.84 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 2.5
+        },
+        {
+            "name": "staticobj_furniture_picture_a_03",
+            "pos": [ 6029.65, 269.5, 6855.19 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 2.5
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6029.85, 271.9, 6853.80 ],
+            "ypr": [ -90.0, 3.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6029.75, 271.9, 6854.50 ],
+            "ypr": [ -90.0, 3.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_drapes_long",
+            "pos": [ 6029.75, 271.9, 6855.20 ],
+            "ypr": [ -90.0, 3.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.65, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.70, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.75, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.80, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.85, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 6028.2, 270.90, 6855.20 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "BarrelHoles_Red",
+            "pos": [ 6028.2, 270.7, 6854.95 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [ 6028.2, 270.9, 6854.95 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.025
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [ 6028.2, 270.9, 6854.95 ],
+            "ypr": [ 180.0, 0.0, 0.0 ],
+			"scale": 0.025
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [ 6030.4, 271.83, 6853.75 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_kitchen_desk_a",
+            "pos": [ 6030.27, 271.6, 6855.08 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.90
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [ 6030.07, 271.2, 6855.06 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_furniture_vending_machine",
+            "pos": [ 6029.60, 271.4, 6856.35 ],
+            "ypr": [ -225.0, 0.0, 0.0 ],
+			"scale": 0.75
+        },
+        {
+            "name": "staticobj_misc_woodtable_outdoor",
+            "pos": [ 6031.95, 271.25, 6857.85 ],
+            "ypr": [ 180.0, 0.0, 4.0 ],
+			"scale": 1
+        }
+    ]
+}
